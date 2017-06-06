@@ -11,12 +11,27 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170606230112) do
+ActiveRecord::Schema.define(version: 20170606231914) do
 
   create_table "characters", force: :cascade do |t|
     t.string   "name"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "costumes", force: :cascade do |t|
+    t.integer  "character_id"
+    t.integer  "number"
+    t.datetime "created_at",                null: false
+    t.datetime "updated_at",                null: false
+    t.string   "pic_official_file_name"
+    t.string   "pic_official_content_type"
+    t.integer  "pic_official_file_size"
+    t.datetime "pic_official_updated_at"
+    t.string   "pic_ingame_file_name"
+    t.string   "pic_ingame_content_type"
+    t.integer  "pic_ingame_file_size"
+    t.datetime "pic_ingame_updated_at"
   end
 
 end
