@@ -9,7 +9,7 @@
 </dl>
 
 <p>
-  <%= link_to "New costume", new_character_costume_path(@character.id), :class => 'btn btn-primary' %>
+  <%= link_to "Costumes", character_costumes_path(@character), :class => 'btn btn-primary' %>
 </p>
 
 <%= link_to t('.back', :default => t("helpers.links.back")),
