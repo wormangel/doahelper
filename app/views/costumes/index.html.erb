@@ -8,7 +8,7 @@
       <th><%= model_class.human_attribute_name(:number) %></th>
       <th><%= model_class.human_attribute_name(:pic_official) %></th>
       <th><%= model_class.human_attribute_name(:pic_ingame) %>
-      <th><%= model_class.human_attribute_name(:created_at) %></th>
+      <th><%= model_class.human_attribute_name(:name) %></th>
       <th><%=t '.actions', :default => t("helpers.actions") %></th>
     </tr>
   </thead>
@@ -18,7 +18,7 @@
         <td><%= link_to costume.number, character_costume_path(@character, costume) %></td>
         <td><%= image_tag costume.pic_official(:thumb) %></td>
         <td><%= image_tag costume.pic_ingame(:thumb) %></td>
-        <td><%=l costume.created_at %></td>
+        <td><%= costume.name %></td>
         <td>
           <%= link_to t('.edit', :default => t("helpers.links.edit")),
                       edit_character_costume_path(@character, costume), :class => 'btn btn-default btn-xs' %>

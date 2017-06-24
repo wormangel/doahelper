@@ -6,7 +6,4 @@ class Costume < ActiveRecord::Base
   validates_attachment_content_type :pic_official, :content_type => ["image/jpg", "image/jpeg", "image/png", "image/gif"]
   validates_attachment_content_type :pic_ingame, :content_type => ["image/jpg", "image/jpeg", "image/png", "image/gif"]
 
-  def name
-    self.character.name + ' - #' + self.number.to_s
-  end
 end
