@@ -2,6 +2,8 @@ Rails.application.routes.draw do
   resources :characters do
     resources :costumes
   end
+
+  resources :dlcs
   root 'welcome#index'
 
   # The priority is based upon order of creation: first created -> highest priority.

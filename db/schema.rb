@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170624192137) do
+ActiveRecord::Schema.define(version: 20170625184942) do
 
   create_table "characters", force: :cascade do |t|
     t.string   "name"
@@ -37,6 +37,33 @@ ActiveRecord::Schema.define(version: 20170624192137) do
     t.integer  "pic_ingame_file_size"
     t.datetime "pic_ingame_updated_at"
     t.string   "name"
+  end
+
+  create_table "dlc_characters", force: :cascade do |t|
+    t.integer  "dlc_id"
+    t.integer  "character_id"
+    t.datetime "created_at",   null: false
+    t.datetime "updated_at",   null: false
+  end
+
+  add_index "dlc_characters", ["character_id"], name: "index_dlc_characters_on_character_id"
+  add_index "dlc_characters", ["dlc_id"], name: "index_dlc_characters_on_dlc_id"
+
+  create_table "dlc_costumes", force: :cascade do |t|
+    t.integer  "dlc_id"
+    t.integer  "costume_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  add_index "dlc_costumes", ["costume_id"], name: "index_dlc_costumes_on_costume_id"
+  add_index "dlc_costumes", ["dlc_id"], name: "index_dlc_costumes_on_dlc_id"
+
+  create_table "dlcs", force: :cascade do |t|
+    t.string   "name"
+    t.decimal  "price"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
 end
