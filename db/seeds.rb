@@ -133,7 +133,7 @@ Costume.create(character: @ayane, number: 50, name: 'Ayane #50 - Season Pass 4')
 Costume.create(character: @ayane, number: 51, name: 'Ayane #51 - Tatsunoko Mashup')
 Costume.create(character: @ayane, number: 52, name: 'Ayane #52 - Valentine\'s Day')
 Costume.create(character: @ayane, number: 53, name: 'Ayane #53 - Samurai Warriors')
-Costume.create(character: @ayane, number: 54, name: 'Ayane #54 - GUST')
+Costume.create(character: @ayane, number: 54, name: 'Ayane #54 - GUST Mashup Costume Set')
 Costume.create(character: @ayane, number: 55, name: 'Ayane #55 - Fairy Tail')
 Costume.create(character: @ayane, number: 56, name: 'Ayane #56 - Attack on Titan')
 Costume.create(character: @ayane, number: 57, name: 'Ayane #57 - Flower Set')
@@ -246,7 +246,7 @@ Costume.create(character: @christie, number: 25, name: 'Christie #25 - Tropical 
 Costume.create(character: @christie, number: 26, name: 'Christie #26 - Training Gear Set')
 Costume.create(character: @christie, number: 27, name: 'Christie #27 - Nurse Costumes')
 Costume.create(character: @christie, number: 28, name: 'Christie #28 - Halloween Costume 2014')
-Costume.create(character: @christie, number: 29, name: 'Christie #29 - Showstopper Encore')
+Costume.create(character: @christie, number: 29, name: 'Christie #29 - Showstoppers Encore')
 Costume.create(character: @christie, number: 30, name: 'Christie #30 - Last Getaway / Showstopper')
 Costume.create(character: @christie, number: 31, name: 'Christie #31 - Ninja Clan 3')
 Costume.create(character: @christie, number: 32, name: 'Christie #32 - Senran Kagura Mashup')
@@ -259,7 +259,7 @@ Costume.create(character: @christie, number: 38, name: 'Christie #38 - Schoolgir
 Costume.create(character: @christie, number: 39, name: 'Christie #39 - Designer\'s Choice 2015')
 Costume.create(character: @christie, number: 40, name: 'Christie #40 - Valentine\'s Day')
 Costume.create(character: @christie, number: 41, name: 'Christie #41 - Samurai Warriors')
-Costume.create(character: @christie, number: 42, name: 'Christie #42 - GUST')
+Costume.create(character: @christie, number: 42, name: 'Christie #42 - GUST Mashup Costume Set')
 Costume.create(character: @christie, number: 43, name: 'Christie #43 - Attack on Titan')
 Costume.create(character: @christie, number: 44, name: 'Christie #44 - Flower Set')
 Costume.create(character: @christie, number: 45, name: 'Christie #45 - Halloween 2016')
@@ -393,7 +393,7 @@ Costume.create(character: @helena, number: 27, name: 'Helena #27 - Bath & Bedtim
 Costume.create(character: @helena, number: 28, name: 'Helena #28 - Maid Costumes')
 Costume.create(character: @helena, number: 29, name: 'Helena #29 - Halloween Costume 2014')
 Costume.create(character: @helena, number: 30, name: 'Helena #30 - Christmas')
-Costume.create(character: @helena, number: 31, name: 'Helena #31 - Showstopper Encore')
+Costume.create(character: @helena, number: 31, name: 'Helena #31 - Showstoppers Encore')
 Costume.create(character: @helena, number: 32, name: 'Helena #32 - Last Getaway / Showstopper')
 Costume.create(character: @helena, number: 33, name: 'Helena #33 - Ninja Clan 2')
 Costume.create(character: @helena, number: 34, name: 'Helena #34 - Senran Kagura Mashup')
@@ -406,7 +406,7 @@ Costume.create(character: @helena, number: 40, name: 'Helena #40 - Schoolgirl St
 Costume.create(character: @helena, number: 41, name: 'Helena #41 - Designer\'s Choice 2015')
 Costume.create(character: @helena, number: 42, name: 'Helena #42 - Valentine\'s Day')
 Costume.create(character: @helena, number: 43, name: 'Helena #43 - Samurai Warriors')
-Costume.create(character: @helena, number: 44, name: 'Helena #44 - GUST')
+Costume.create(character: @helena, number: 44, name: 'Helena #44 - GUST Mashup Costume Set')
 Costume.create(character: @helena, number: 45, name: 'Helena #45 - Fairy Tail')
 Costume.create(character: @helena, number: 46, name: 'Helena #46 - Attack on Titan')
 Costume.create(character: @helena, number: 47, name: 'Helena #47 - Flower Set')
@@ -469,7 +469,7 @@ Costume.create(character: @hitomi, number: 45, name: 'Hitomi #45 - Designer\'s C
 Costume.create(character: @hitomi, number: 46, name: 'Hitomi #46 - Tatsunoko Mashup')
 Costume.create(character: @hitomi, number: 47, name: 'Hitomi #47 - Valentine\'s Day')
 Costume.create(character: @hitomi, number: 48, name: 'Hitomi #48 - Samurai Warriors')
-Costume.create(character: @hitomi, number: 49, name: 'Hitomi #49 - GUST')
+Costume.create(character: @hitomi, number: 49, name: 'Hitomi #49 - GUST Mashup Costume Set')
 Costume.create(character: @hitomi, number: 50, name: 'Hitomi #50 - Fairy Tail')
 Costume.create(character: @hitomi, number: 51, name: 'Hitomi #51 - Attack on Titan')
 Costume.create(character: @hitomi, number: 52, name: 'Hitomi #52 - Flower Set')
@@ -516,7 +516,7 @@ Costume.create(character: @honoka, number: 28, name: 'Honoka #28 - Newcomers')
 Costume.create(character: @honoka, number: 29, name: 'Honoka #29 - Newcomers')
 Costume.create(character: @honoka, number: 30, name: 'Honoka #30 - Newcomers')
 Costume.create(character: @honoka, number: 31, name: 'Honoka #31 - Newcomers')
-Costume.create(character: @honoka, number: 32, name: 'Honoka #32 - GUST')
+Costume.create(character: @honoka, number: 32, name: 'Honoka #32 - GUST Mashup Costume Set')
 Costume.create(character: @honoka, number: 33, name: 'Honoka #33 - Fairy Tail')
 Costume.create(character: @honoka, number: 34, name: 'Honoka #34 - Attack on Titan')
 Costume.create(character: @honoka, number: 35, name: 'Honoka #35 - Flower Set')
@@ -623,7 +623,7 @@ Costume.create(character: @kasumi, number: 49, name: 'Kasumi #49 - Season Pass 3
 Costume.create(character: @kasumi, number: 50, name: 'Kasumi #50 - Tatsunoko Mashup')
 Costume.create(character: @kasumi, number: 51, name: 'Kasumi #51 - Valentine\'s Day')
 Costume.create(character: @kasumi, number: 52, name: 'Kasumi #52 - Samurai Warriors')
-Costume.create(character: @kasumi, number: 53, name: 'Kasumi #53 - GUST')
+Costume.create(character: @kasumi, number: 53, name: 'Kasumi #53 - GUST Mashup Costume Set')
 Costume.create(character: @kasumi, number: 54, name: 'Kasumi #54 - Fairy Tail')
 Costume.create(character: @kasumi, number: 55, name: 'Kasumi #55 - DOA Festival 2016 Visitor\'s Award')
 Costume.create(character: @kasumi, number: 56, name: 'Kasumi #56 - Attack on Titan')
@@ -688,7 +688,7 @@ Costume.create(character: @kokoro, number: 45, name: 'Kokoro #45 - Designer\'s C
 Costume.create(character: @kokoro, number: 46, name: 'Kokoro #46 - Tatsunoko Mashup')
 Costume.create(character: @kokoro, number: 47, name: 'Kokoro #47 - Valentine\'s Day')
 Costume.create(character: @kokoro, number: 48, name: 'Kokoro #48 - Samurai Warriors')
-Costume.create(character: @kokoro, number: 49, name: 'Kokoro #49 - GUST')
+Costume.create(character: @kokoro, number: 49, name: 'Kokoro #49 - GUST Mashup Costume Set')
 Costume.create(character: @kokoro, number: 50, name: 'Kokoro #50 - Fairy Tail')
 Costume.create(character: @kokoro, number: 51, name: 'Kokoro #51 - Attack on Titan')
 Costume.create(character: @kokoro, number: 52, name: 'Kokoro #52 - Flower Set')
@@ -732,7 +732,7 @@ Costume.create(character: @lisa, number: 25, name: 'La Mariposa #25 - Costume 25
 Costume.create(character: @lisa, number: 26, name: 'La Mariposa #26 - Tropical Sexy Costume Set')
 Costume.create(character: @lisa, number: 27, name: 'La Mariposa #27 - Training Gear Set')
 Costume.create(character: @lisa, number: 28, name: 'La Mariposa #28 - Halloween Costume 2014')
-Costume.create(character: @lisa, number: 29, name: 'La Mariposa #29 - Showstopper Encore')
+Costume.create(character: @lisa, number: 29, name: 'La Mariposa #29 - Showstoppers Encore')
 Costume.create(character: @lisa, number: 30, name: 'La Mariposa #30 - Last Getaway / Showstopper')
 Costume.create(character: @lisa, number: 31, name: 'La Mariposa #31 - Ninja Clan 3')
 Costume.create(character: @lisa, number: 32, name: 'La Mariposa #32 - Senran Kagura Mashup')
@@ -744,7 +744,7 @@ Costume.create(character: @lisa, number: 37, name: 'La Mariposa #37 - Halloween 
 Costume.create(character: @lisa, number: 38, name: 'La Mariposa #38 - Schoolgirl Strikers Mashup')
 Costume.create(character: @lisa, number: 39, name: 'La Mariposa #39 - Valentine\'s Day')
 Costume.create(character: @lisa, number: 40, name: 'La Mariposa #40 - Samurai Warriors')
-Costume.create(character: @lisa, number: 41, name: 'La Mariposa #41 - GUST')
+Costume.create(character: @lisa, number: 41, name: 'La Mariposa #41 - GUST Mashup Costume Set')
 Costume.create(character: @lisa, number: 42, name: 'La Mariposa #42 - Attack on Titan')
 Costume.create(character: @lisa, number: 43, name: 'La Mariposa #43 - Flower Set')
 Costume.create(character: @lisa, number: 44, name: 'La Mariposa #44 - Halloween 2016')
@@ -794,7 +794,7 @@ Costume.create(character: @leifang, number: 34, name: 'Leifang #34 - Ultimate Se
 Costume.create(character: @leifang, number: 35, name: 'Leifang #35 - Halloween Costume 2014')
 Costume.create(character: @leifang, number: 36, name: 'Leifang #36 - Police Uniform')
 Costume.create(character: @leifang, number: 37, name: 'Leifang #37 - Christmas')
-Costume.create(character: @leifang, number: 38, name: 'Leifang #38 - Last Getawat / Beach Party')
+Costume.create(character: @leifang, number: 38, name: 'Leifang #38 - Last Getaway / Beach Party')
 Costume.create(character: @leifang, number: 39, name: 'Leifang #39 - Ninja Clan 2')
 Costume.create(character: @leifang, number: 40, name: 'Leifang #40 - Senran Kagura Mashup')
 Costume.create(character: @leifang, number: 41, name: 'Leifang #41 - Fighter Force')
@@ -808,7 +808,7 @@ Costume.create(character: @leifang, number: 48, name: 'Leifang #48 - Designer\'s
 Costume.create(character: @leifang, number: 49, name: 'Leifang #49 - Tatsunoko Mashup')
 Costume.create(character: @leifang, number: 50, name: 'Leifang #50 - Valentine\'s Day')
 Costume.create(character: @leifang, number: 51, name: 'Leifang #51 - Samurai Warriors')
-Costume.create(character: @leifang, number: 52, name: 'Leifang #52 - GUST')
+Costume.create(character: @leifang, number: 52, name: 'Leifang #52 - GUST Mashup Costume Set')
 Costume.create(character: @leifang, number: 53, name: 'Leifang #53 - Fairy Tail')
 Costume.create(character: @leifang, number: 54, name: 'Leifang #54 - Attack on Titan')
 Costume.create(character: @leifang, number: 55, name: 'Leifang #55 - Flower Set')
@@ -817,7 +817,7 @@ Costume.create(character: @leifang, number: 57, name: 'Leifang #57 - Summer Fest
 Costume.create(character: @leifang, number: 58, name: 'Leifang #58 - AQUAPLUS Collaboration')
 Costume.create(character: @leifang, number: 59, name: 'Leifang #59 - High Society')
 Costume.create(character: @leifang, number: 60, name: 'Leifang #60 - Chinese New Year')
-Costume.create(character: @leifang, number: 61, name: 'Leifang #61 - Arch System Works Costume Set')
+Costume.create(character: @leifang, number: 61, name: 'Leifang #61 - Arc System Works Costume Set')
 Costume.create(character: @leifang, number: 62, name: 'Leifang #62 - Shrine Maidens')
 Costume.create(character: @leifang, number: 63, name: 'Leifang #63 - Rodeo Time')
 Costume.create(character: @leifang, number: 64, name: 'Leifang #64 - Gust Mashup Swimwear')
@@ -888,7 +888,7 @@ Costume.create(character: @marierose, number: 36, name: 'Marie Rose #36 - Samura
 Costume.create(character: @marierose, number: 37, name: 'Marie Rose #37 - Newcomers')
 Costume.create(character: @marierose, number: 38, name: 'Marie Rose #38 - Newcomers')
 Costume.create(character: @marierose, number: 39, name: 'Marie Rose #39 - Newcomers')
-Costume.create(character: @marierose, number: 40, name: 'Marie Rose #40 - GUST')
+Costume.create(character: @marierose, number: 40, name: 'Marie Rose #40 - GUST Mashup Costume Set')
 Costume.create(character: @marierose, number: 41, name: 'Marie Rose #41 - Fairy Tail')
 Costume.create(character: @marierose, number: 42, name: 'Marie Rose #42 - DOA Festival 2016 Visitor\'s Award')
 Costume.create(character: @marierose, number: 43, name: 'Marie Rose #43 - Attack on Titan')
@@ -952,7 +952,7 @@ Costume.create(character: @mila, number: 43, name: 'Mila #43 - Schoolgirl Strike
 Costume.create(character: @mila, number: 44, name: 'Mila #44 - Tatsunoko Mashup')
 Costume.create(character: @mila, number: 45, name: 'Mila #45 - Valentine\'s Day')
 Costume.create(character: @mila, number: 46, name: 'Mila #46 - Samurai Warriors')
-Costume.create(character: @mila, number: 47, name: 'Mila #47 - GUST')
+Costume.create(character: @mila, number: 47, name: 'Mila #47 - GUST Mashup Costume Set')
 Costume.create(character: @mila, number: 48, name: 'Mila #48 - Attack on Titan')
 Costume.create(character: @mila, number: 49, name: 'Mila #49 - Flower Set')
 Costume.create(character: @mila, number: 50, name: 'Mila #50 - Halloween 2016')
@@ -1004,8 +1004,8 @@ Costume.create(character: @momiji, number: 36, name: 'Momiji #36 - Schoolgirl St
 Costume.create(character: @momiji, number: 37, name: 'Momiji #37 - Designer\'s Choice 2015')
 Costume.create(character: @momiji, number: 38, name: 'Momiji #38 - Tatsunoko Mashup')
 Costume.create(character: @momiji, number: 39, name: 'Momiji #39 - Valentine\'s Day')
-Costume.create(character: @momiji, number: 40, name: 'Momiji #40 - Samuray Warriors')
-Costume.create(character: @momiji, number: 41, name: 'Momiji #41 - GUST')
+Costume.create(character: @momiji, number: 40, name: 'Momiji #40 - Samurai Warriors')
+Costume.create(character: @momiji, number: 41, name: 'Momiji #41 - GUST Mashup Costume Set')
 Costume.create(character: @momiji, number: 42, name: 'Momiji #42 - Fairy Tail')
 Costume.create(character: @momiji, number: 43, name: 'Momiji #43 - Attack on Titan')
 Costume.create(character: @momiji, number: 44, name: 'Momiji #44 - Flower Set')
@@ -1082,7 +1082,7 @@ Costume.create(character: @nyotengu, number: 35, name: 'Nyotengu #35 - Samurai W
 Costume.create(character: @nyotengu, number: 36, name: 'Nyotengu #36 - Newcomers')
 Costume.create(character: @nyotengu, number: 37, name: 'Nyotengu #37 - Newcomers')
 Costume.create(character: @nyotengu, number: 38, name: 'Nyotengu #38 - Newcomers')
-Costume.create(character: @nyotengu, number: 39, name: 'Nyotengu #39 - GUST')
+Costume.create(character: @nyotengu, number: 39, name: 'Nyotengu #39 - GUST Mashup Costume Set')
 Costume.create(character: @nyotengu, number: 40, name: 'Nyotengu #40 - Fairy Tail')
 Costume.create(character: @nyotengu, number: 41, name: 'Nyotengu #41 - Attack on Titan')
 Costume.create(character: @nyotengu, number: 42, name: 'Nyotengu #42 - Flower Set')
@@ -1151,7 +1151,7 @@ Costume.create(character: @phase4, number: 29, name: 'Phase 4 #29 - Valentine\'s
 Costume.create(character: @phase4, number: 30, name: 'Phase 4 #30 - Samurai Warriors')
 Costume.create(character: @phase4, number: 31, name: 'Phase 4 #31 - Newcomers')
 Costume.create(character: @phase4, number: 32, name: 'Phase 4 #32 - Newcomers')
-Costume.create(character: @phase4, number: 33, name: 'Phase 4 #33 - GUST')
+Costume.create(character: @phase4, number: 33, name: 'Phase 4 #33 - GUST Mashup Costume Set')
 Costume.create(character: @phase4, number: 34, name: 'Phase 4 #34 - Fairy Tail')
 Costume.create(character: @phase4, number: 35, name: 'Phase 4 #35 - Attack on Titan')
 Costume.create(character: @phase4, number: 36, name: 'Phase 4 #36 - Flower Set')
@@ -1195,7 +1195,7 @@ Costume.create(character: @rachel, number: 26, name: 'Rachel #26 - Halloween 201
 Costume.create(character: @rachel, number: 27, name: 'Rachel #27 - Schoolgirl Strikers Mashup')
 Costume.create(character: @rachel, number: 28, name: 'Rachel #28 - Valentine\'s Day')
 Costume.create(character: @rachel, number: 29, name: 'Rachel #29 - Samurai Warriors')
-Costume.create(character: @rachel, number: 30, name: 'Rachel #30 - GUST')
+Costume.create(character: @rachel, number: 30, name: 'Rachel #30 - GUST Mashup Costume Set')
 Costume.create(character: @rachel, number: 31, name: 'Rachel #31 - Attack on Titan')
 Costume.create(character: @rachel, number: 32, name: 'Rachel #32 - Flower Set')
 Costume.create(character: @rachel, number: 33, name: 'Rachel #33 - Halloween 2016')
@@ -1329,7 +1329,7 @@ Costume.create(character: @tina, number: 32, name: 'Tina Armstrong #32 - Maid Co
 Costume.create(character: @tina, number: 33, name: 'Tina Armstrong #33 - Ultimate Sexy Bunny')
 Costume.create(character: @tina, number: 34, name: 'Tina Armstrong #34 - Halloween Costume 2014')
 Costume.create(character: @tina, number: 35, name: 'Tina Armstrong #35 - Police Uniform')
-Costume.create(character: @tina, number: 36, name: 'Tina Armstrong #36 - Showstopper Encore')
+Costume.create(character: @tina, number: 36, name: 'Tina Armstrong #36 - Showstoppers Encore')
 Costume.create(character: @tina, number: 37, name: 'Tina Armstrong #37 - Last Getaway / Showstopper')
 Costume.create(character: @tina, number: 38, name: 'Tina Armstrong #38 - Ninja Clan 1')
 Costume.create(character: @tina, number: 39, name: 'Tina Armstrong #39 - Senran Kagura Mashup')
@@ -1342,7 +1342,7 @@ Costume.create(character: @tina, number: 45, name: 'Tina Armstrong #45 - Schoolg
 Costume.create(character: @tina, number: 46, name: 'Tina Armstrong #46 - Designer\'s Choice 2015')
 Costume.create(character: @tina, number: 47, name: 'Tina Armstrong #47 - Valentine\'s Day')
 Costume.create(character: @tina, number: 48, name: 'Tina Armstrong #48 - Samurai Warriors')
-Costume.create(character: @tina, number: 49, name: 'Tina Armstrong #49 - GUST')
+Costume.create(character: @tina, number: 49, name: 'Tina Armstrong #49 - GUST Mashup Costume Set')
 Costume.create(character: @tina, number: 50, name: 'Tina Armstrong #50 - Fairy Tail')
 Costume.create(character: @tina, number: 51, name: 'Tina Armstrong #51 - Attack on Titan')
 Costume.create(character: @tina, number: 52, name: 'Tina Armstrong #52 - Flower Set')
@@ -1402,5 +1402,44 @@ Dlc.create(name: "Halloween 2014 Costume Set", price: 27.99, costumes: Costume.w
 Dlc.create(name: "Police Uniform Set", price: 17.99, costumes: Costume.where('name LIKE ?', '%Police%').all, release_date: "2014-11-18" ) # 12
 Dlc.create(name: "Christmas Set", price: 17.99, costumes: Costume.where('name LIKE ?', '%Christmas%').all, release_date: "2014-12-09" ) # 12
 
-# DLCs from DOA5LR
+# DLCs from DOA 5 Last Round
+Dlc.create(name: "Honoka Debut Costumes", price: 7.49, costumes: Costume.where('name LIKE ?', '%Honoka Debut%').all, release_date: "2015-02-17" ) # 5
+Dlc.create(name: "Ninja Clan 1 Costume Set", price: 14.99, costumes: Costume.where('name LIKE ?', '%Ninja Clan 1%').all, release_date: "2015-02-24" ) # 10
+Dlc.create(name: "Ninja Clan 2 Costume Set", price: 14.99, costumes: Costume.where('name LIKE ?', '%Ninja Clan 2%').all, release_date: "2015-03-10" ) # 10
+Dlc.create(name: "Senran Kagura Set", price: 33.99, costumes: Costume.where('name LIKE ?', '%Senran Kagura%').all, release_date: "2015-03-24" ) # 16
+Dlc.create(name: "Ninja Clan 3 Costume Set", price: 14.99, costumes: Costume.where('name LIKE ?', '%Ninja Clan 3%').all, release_date: "2015-04-07" ) # 10
+Dlc.create(name: "Ninja 2015 Costume Set", price: 5.99, costumes: Costume.where('name LIKE ?', '%Ninja 2015%').all, release_date: "2015-04-21" ) # 4
+Dlc.create(name: "Premier Sexy Costume & Movie Set", price: 14.99, costumes: Costume.where('name LIKE ?', '%Premier Sexy%').all, release_date: "2015-04-21" ) # 4
+Dlc.create(name: "Last Getaway Costume Set", price: 24.99, costumes: Costume.where('name LIKE ?', '%Last Getaway%').all, release_date: "2015-04-21" ) # 18
+Dlc.create(name: "Showstoppers Encore Set", price: 11.99, costumes: Costume.where('name LIKE ?', '%Showstoppers Encore%').all, release_date: "2015-04-28" ) # 8
+Dlc.create(name: "Fighter Force Costumes", price: 22.99, costumes: Costume.where('name LIKE ?', '%Fighter Force%').all, release_date: "2015-05-15" ) # 16
+Dlc.create(name: "Deception Costume Set", price: 33.99, costumes: Costume.where('name LIKE ?', '%Deception%').all, release_date: "2015-06-16" ) # 16
+Dlc.create(name: "Wakaki Costume Set", price: 24.99, costumes: Costume.where('name LIKE ?', '%Costumes by Tamiki Wakaki%').all, release_date: "2015-07-21" ) # 16
+Dlc.create(name: "Hot SummerCostume Set", price: 18.99, costumes: Costume.where('name LIKE ?', '%Hot Summer%').all, release_date: "2015-08-11" ) # 16
+Dlc.create(name: "Falcom Mashup Set", price: 34.99, costumes: Costume.where('name LIKE ?', '%Falcom Mashup%').all, release_date: "2015-09-15" ) # 16
+Dlc.create(name: "Halloween Costume 2015 Set", price: 27.99, costumes: Costume.where('name LIKE ?', '%Halloween 2015%').all, release_date: "2015-10-13" ) # 34
+Dlc.create(name: "SCHOOLGIRL STRIKERS Mashup", price: 31.99, costumes: Costume.where('name LIKE ?', '%Schoolgirl Strikers%').all, release_date: "2015-11-17" ) # 16
+Dlc.create(name: "Design Award Costumers 2015 Set", price: 18.99, costumes: Costume.where('name LIKE ?', '%Choice 2015%').all, release_date: "2015-12-15" ) # 16
+Dlc.create(name: "Outcast Armor by Tamiki Wakaki Set", price: 0, costumes: Costume.where('name LIKE ?', '%Outcast%').all, release_date: "2016-01-12" ) # 2
+Dlc.create(name: "Tatsunoko Mashup Set", price: 31.99, costumes: Costume.where('name LIKE ?', '%Tatsunoko%').all, release_date: "2016-01-22" ) # 16
+Dlc.create(name: "Valentine's Day Set", price: 23.99, costumes: Costume.where('name LIKE ?', '%Valentine%').all, release_date: "2016-02-12" ) # 34
+Dlc.create(name: "Debut Costume Set - Naotora", price: 7.99, costumes: Costume.where('name LIKE ?', '%Naotora Li Debut%').all, release_date: "2016-03-17" ) # 5
+Dlc.create(name: "SW Mashup Set", price: 36.99, costumes: Costume.where('name LIKE ?', '%Samurai Warriors%').all, release_date: "2016-03-29" ) # 30
+Dlc.create(name: "Newcomer Set", price: 18.99, costumes: Costume.where('name LIKE ?', '%Newcomers%').all, release_date: "2016-04-19" ) # 16
+Dlc.create(name: "GUST Mashup Costume Set", price: 31.99, costumes: Costume.where('name LIKE ?', '%GUST Mashup Costume Set%').all, release_date: "2016-05-24" ) # 16
+Dlc.create(name: "Attack on Titan Mashup Set", price: 39.49, costumes: Costume.where('name LIKE ?', '%Titan%').all, release_date: "2016-07-19" ) # 30
+Dlc.create(name: "Flower Set", price: 19.49, costumes: Costume.where('name LIKE ?', '%Flower%').all, release_date: "2016-08-09" ) # 17
+Dlc.create(name: "Mai Shiranui Debut Costume Set", price: 9.99, costumes: Costume.where('name LIKE ?', '%Mai Debut%').all, release_date: "2016-09-13" ) # 5
+Dlc.create(name: "KOF Mashup Costume Set", price: 13.99, costumes: Costume.where('name LIKE ?', '%King of Fighters%').all, release_date: "2016-09-13" ) # 6
+Dlc.create(name: "Halloween Costume 2016 Set", price: 27.49, costumes: Costume.where('name LIKE ?', '%Halloween 2016%').all, release_date: "2016-10-11" ) # 35
+Dlc.create(name: "Summer Festival Costume Set", price: 19.49, costumes: Costume.where('name LIKE ?', '%Summer Festival%').all, release_date: "2016-10-15" ) # 17
+Dlc.create(name: "Aquaplus Mashup Set", price: 31.99, costumes: Costume.where('name LIKE ?', '%Aquaplus%').all, release_date: "2016-12-13" ) # 16
+Dlc.create(name: "High Society Costume Set", price: 19.99, costumes: Costume.where('name LIKE ?', '%High Society%').all, release_date: "2017-01-17" ) # 17
+Dlc.create(name: "Alluring Mandarin Dress Set", price: 19.99, costumes: Costume.where('name LIKE ?', '%Chinese%').all, release_date: "2017-02-14" ) # 17
+Dlc.create(name: "Arc System Works Mashup Set", price: 31.99, costumes: Costume.where('name LIKE ?', '%Arc System%').all, release_date: "2017-03-14" ) # 16
+Dlc.create(name: "Shrine Maiden Costume Set", price: 19.99, costumes: Costume.where('name LIKE ?', '%Shrine%').all, release_date: "2017-04-18" ) # 17
+Dlc.create(name: "Rodeo Time Costume Set", price: 19.99, costumes: Costume.where('name LIKE ?', '%Rodeo%').all, release_date: "2017-05-16" ) # 17
+Dlc.create(name: "GUST Mashup Swimwear Set", price: 19.99, costumes: Costume.where('name LIKE ?', '%Gust Mashup Swimwear%').all, release_date: "2017-06-13" ) # 17
+
+# Season Passes
 #Dlc.create(name: "Ultimate Content Set", price: 50.0, costumes: [@kasumi_c1])
