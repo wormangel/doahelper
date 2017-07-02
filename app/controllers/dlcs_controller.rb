@@ -1,6 +1,6 @@
 class DlcsController < ApplicationController
   def index
-    @dlcs = Dlc.all
+    @dlcs = Dlc.all.order('release_date DESC')
   end
 
   def show
@@ -10,5 +10,5 @@ class DlcsController < ApplicationController
   def edit
   end
 
-  
+
 end

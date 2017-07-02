@@ -1381,26 +1381,26 @@ Costume.create(character: @zack, number: 21, name: 'Zack #21 - Halloween 2016')
 
 # DLCs
 # DLCSs from DOA 5
-Dlc.create(name: "Hot Getaway", price: 12.99, costumes: Costume.where('name LIKE ?', '%Hot Getaway%').all ) # 12
+Dlc.create(name: "Hot Getaway", price: 12.99, costumes: Costume.where('name LIKE ?', '%Hot Getaway%').all, release_date: "2013-07-16" ) # 12
 
 # DLCSs from DOA 5 Ultimate
-Dlc.create(name: "Ultimate Sexy Costumes", price: 14.99, costumes: Costume.where('name LIKE ?', '%Ultimate Sexy Costume%').all ) # 14
-Dlc.create(name: "School Uniform Pack", price: 12.99, costumes: Costume.where('name LIKE ?', '%School Uniform%').all ) # 12
-Dlc.create(name: "Pop Idols", price: 2.99, costumes: Costume.where('name LIKE ?', '%Team%').all ) # 12 - team A, D, O
-Dlc.create(name: "Halloween 2013 / Trick-or-Treat Halloween Costume Set", price: 25.99, costumes: Costume.where('name LIKE ?', "%Halloween Costume 2013%").all ) # 28 Halloween Costume
-Dlc.create(name: "Tropical Sexy", price: 14.99, costumes: Costume.where('name LIKE ?', '%Tropical Sexy%').all ) # 14 Tropical Sexy
-Dlc.create(name: "Marie Rose Debut Set", price: 7.99, costumes: Costume.where('name LIKE ?', '%Marie Rose Debut%').all ) # 5
-Dlc.create(name: "Nyotengu Debut Set", price: 7.99, costumes: Costume.where('name LIKE ?', '%Nyotengu Debut%').all ) # 5
-Dlc.create(name: "Phase 4 Debut Set", price: 7.99, costumes: Costume.where('name LIKE ?', '%Phase 4 Debut%').all ) # 5
-Dlc.create(name: "Nurse Costume Set", price: 14.99, costumes: Costume.where('name LIKE ?', '%Nurse Costumes%').all ) # 10
-Dlc.create(name: "Training Gear Set", price: 17.99, costumes: Costume.where('name LIKE ?', '%Training Gear%').all ) # 12
-Dlc.create(name: "Overalls Set", price: 14.99, costumes: Costume.where('name LIKE ?', '%Overalls%').all ) # 10
-Dlc.create(name: "Bath & Bedtime Set", price: 14.99, costumes: Costume.where('name LIKE ?', '%Bath & Bedtime%').all ) # 10
-Dlc.create(name: "Maid Uniforms Set", price: 15.99, costumes: Costume.where('name LIKE ?', '%Maid Costumes%').all) # 11
-Dlc.create(name: "Ultimate Sexy Bunny Set", price: 14.99, costumes: Costume.where('name LIKE ?', '%Sexy Bunny%').all ) # 10
-Dlc.create(name: "Halloween 2014 Costume Set", price: 27.99, costumes: Costume.where('name LIKE ?', '%Halloween Costume 2014%').all ) # 31
-Dlc.create(name: "Police Uniform Set", price: 17.99, costumes: Costume.where('name LIKE ?', '%Police%').all ) # 12
-Dlc.create(name: "Christmas Set", price: 17.99, costumes: Costume.where('name LIKE ?', '%Christmas%').all ) # 12
+Dlc.create(name: "Ultimate Sexy Costumes", price: 14.99, costumes: Costume.where('name LIKE ?', '%Ultimate Sexy Costume%').all, release_date: "2013-09-10" ) # 14
+Dlc.create(name: "School Uniform Pack", price: 12.99, costumes: Costume.where('name LIKE ?', '%School Uniform%').all, release_date: "2013-09-17" ) # 12
+Dlc.create(name: "Pop Idols", price: 2.99, costumes: Costume.where('name LIKE ?', '%Team%').all, release_date: "2013-09-24" ) # 12 - team A, D, O
+Dlc.create(name: "Halloween 2013 / Trick-or-Treat Halloween Costume Set", price: 25.99, costumes: Costume.where('name LIKE ?', "%Halloween Costume 2013%").all, release_date: "2013-10-15" ) # 28 Halloween Costume
+Dlc.create(name: "Tropical Sexy", price: 14.99, costumes: Costume.where('name LIKE ?', '%Tropical Sexy%').all, release_date: "2014-02-14" ) # 14 Tropical Sexy
+Dlc.create(name: "Marie Rose Debut Set", price: 7.99, costumes: Costume.where('name LIKE ?', '%Marie Rose Debut%').all, release_date: "2014-03-25" ) # 5
+Dlc.create(name: "Nyotengu Debut Set", price: 7.99, costumes: Costume.where('name LIKE ?', '%Nyotengu Debut%').all, release_date: "2014-09-02" ) # 5
+Dlc.create(name: "Phase 4 Debut Set", price: 7.99, costumes: Costume.where('name LIKE ?', '%Phase 4 Debut%').all, release_date: "2014-06-17" ) # 5
+Dlc.create(name: "Nurse Costume Set", price: 14.99, costumes: Costume.where('name LIKE ?', '%Nurse Costumes%').all, release_date: "2014-04-22" ) # 10
+Dlc.create(name: "Training Gear Set", price: 17.99, costumes: Costume.where('name LIKE ?', '%Training Gear%').all, release_date: "2014-05-20" ) # 12
+Dlc.create(name: "Overalls Set", price: 14.99, costumes: Costume.where('name LIKE ?', '%Overalls%').all, release_date: "2014-06-17" ) # 10
+Dlc.create(name: "Bath & Bedtime Set", price: 14.99, costumes: Costume.where('name LIKE ?', '%Bath & Bedtime%').all, release_date: "2014-07-29" ) # 10
+Dlc.create(name: "Maid Uniforms Set", price: 15.99, costumes: Costume.where('name LIKE ?', '%Maid Costumes%').all, release_date: "2014-08-19" ) # 11
+Dlc.create(name: "Ultimate Sexy Bunny Set", price: 14.99, costumes: Costume.where('name LIKE ?', '%Sexy Bunny%').all, release_date: "2014-09-23" ) # 10
+Dlc.create(name: "Halloween 2014 Costume Set", price: 27.99, costumes: Costume.where('name LIKE ?', '%Halloween Costume 2014%').all, release_date: "2014-10-14" ) # 31
+Dlc.create(name: "Police Uniform Set", price: 17.99, costumes: Costume.where('name LIKE ?', '%Police%').all, release_date: "2014-11-18" ) # 12
+Dlc.create(name: "Christmas Set", price: 17.99, costumes: Costume.where('name LIKE ?', '%Christmas%').all, release_date: "2014-12-09" ) # 12
 
 # DLCs from DOA5LR
 #Dlc.create(name: "Ultimate Content Set", price: 50.0, costumes: [@kasumi_c1])
